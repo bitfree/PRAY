@@ -8,62 +8,36 @@ Welcome to myletter's documentation!
 
 Contents:
 
-        20160111.rst
-        20160124.rst
-        20160131.rst
-        20160215.rst
-        20160222.rst
-        20160229.rst
-        20160229.special.rst    
-        201602.graduation.rst
-        20160308.rst
-        20160315.rst
-        20160322.rst
-        20160329.rst
-        20160405.rst
-        20160413.rst    
-        20160420.rst
-        20160426.rst
-        20160502.rst
-        20160511.rst
-        20160527.rst
-        20160603.rst
-        20160610.rst
-        20160614.rst
-        20160623.rst
-        20160629.rst
-        20160704.rst
-        bye.rst
+.. include:: ./20160111.rst
+.. include:: ./20160124.rst
+.. include:: ./20160131.rst
+.. include:: ./201602.graduation.rst
+.. include:: ./20160215.rst
+.. include:: ./20160222.rst
+.. include:: ./20160229.rst
+.. include:: ./20160229.special.rst
+.. include:: ./20160308.rst
+.. include:: ./20160315.rst
+.. include:: ./20160322.rst
+.. include:: ./20160329.rst
+.. include:: ./20160405.rst
+.. include:: ./20160413.rst
+.. include:: ./20160420.rst
+.. include:: ./20160426.rst
+.. include:: ./20160502.rst
+.. include:: ./20160511.rst
+.. include:: ./20160527.rst
+.. include:: ./20160603.rst
+.. include:: ./20160610.rst
+.. include:: ./20160614.rst
+.. include:: ./20160623.rst
+.. include:: ./20160629.rst
+.. include:: ./20160704.rst
+.. include:: ./20160711.rst
+.. include:: ./201512.bye.rst
 
 .. toctree::
    :maxdepth: 2
-
-        20160111.rst
-        20160124.rst
-        20160131.rst
-        20160215.rst
-        20160222.rst
-        20160229.rst
-        20160229.special.rst    
-        201602.graduation.rst
-        20160308.rst
-        20160315.rst
-        20160322.rst
-        20160329.rst
-        20160405.rst
-        20160413.rst    
-        20160420.rst
-        20160426.rst
-        20160502.rst
-        20160511.rst
-        20160527.rst
-        20160603.rst
-        20160610.rst
-        20160614.rst
-        20160623.rst
-        20160629.rst
-        20160704.rst
-        bye.rst
 
 
 

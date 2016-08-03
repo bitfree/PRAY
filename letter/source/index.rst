@@ -8,6 +8,7 @@ Welcome to myletter's documentation!
 
 Contents:
 
+.. include:: ./201512.bye.rst
 .. include:: ./20160111.rst
 .. include:: ./20160124.rst
 .. include:: ./20160131.rst
@@ -34,7 +35,9 @@ Contents:
 .. include:: ./20160629.rst
 .. include:: ./20160704.rst
 .. include:: ./20160711.rst
-.. include:: ./201512.bye.rst
+.. include:: ./20160719.rst
+.. include:: ./20160730.rst
+.. include:: ./20160803.rst
 
 .. toctree::
    :maxdepth: 2

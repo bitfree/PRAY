@@ -38,6 +38,8 @@ Contents:
 .. include:: ./20160719.rst
 .. include:: ./20160730.rst
 .. include:: ./20160803.rst
+.. include:: ./20160809.rst
+.. include:: ./20160816.rst
 
 .. toctree::
    :maxdepth: 2

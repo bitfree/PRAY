@@ -42,7 +42,17 @@ Contents:
 .. include:: ./20160816.rst
 .. include:: ./20160825.rst
 .. include:: ./20160902.rst
-
+.. include:: ./20160909.rst
+.. include:: ./20160912.rst
+.. include:: ./20160922.rst
+.. include:: ./20160930.rst
+.. include:: ./20161006.rst
+.. include:: ./20161012.rst
+.. include:: ./20161022.rst
+.. include:: ./20161102.rst
+.. include:: ./20161111.rst
+.. include:: ./20161118.rst
+.. include:: ./20161123.rst
 
 .. toctree::
    :maxdepth: 2
